@@ -1,1 +1,2 @@
-# SoftwareDevSalaryPredictor
+# SalaryPredictor
+Welcome to the Salary Predictor for Software Developers project! This tool is designed to estimate the salary of software developers based on various features. Whether you're a developer exploring job opportunities or an employer looking to determine competitive compensation, this model aims to provide valuable insights.This salary predictor model has been seamlessly integrated into a website primarily built with front-end technologies. Users can access the predictor through a user-friendly interface on the website, making it convenient to input their details and receive salary estimates.It's still undergoing some changes and some additional features will be added to it in future to make it more convenient to use.
